@@ -29,6 +29,7 @@ Iterate through array. For currentElement, compute currentDifference.
 If currentDifference exists in hashTable and currentElementIndex !== hashTable[currentDifference], return the indices of each element.
 If currentDifference does not exist or the indices of both elements are equal, move to the next element in the array.
 
+Solution Explanation Help: https://levelup.gitconnected.com/how-to-solve-two-sum-in-javascript-d1ebd9dfd3d3
 */
 
 /*
